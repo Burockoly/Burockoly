@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=26&pause=1000&color=2FDA60&multiline=true&random=false&width=435&height=60&lines=Hey+There!+(%E3%83%BB%CE%B5%E3%83%BB)%E3%83%8E;I'm+Burak.)](https://git.io/typing-svg)
 
 
-for real $whoami¿? :owl:
+## for real $whoami¿? :owl:
 
 
 ## I'm a Cyber Security researcher and learner!
