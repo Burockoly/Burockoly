@@ -1,24 +1,25 @@
-<h1>Hi, I'm Burak! <br/><a href="https://github.com/Burockoly">Programmer</a>, <a href="https://www.linkedin.com/in/Burockoly/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-<h2>👨‍💻 About Me:</h2>
-
-- From Istanbul/Turkey
-
-- Student at Fachhochschule Südwestfalen![image](https://github.com/Burockoly/Burockoly/assets/134174717/fea4d046-7258-4394-bcb0-45818d3a5f18)
-
-- Cybersecurity Enthusiast
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="BurakGul | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BurakGul | TryHackMe" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hello+there!+I'm+Burak+-+aka+burockoly)](https://git.io/typing-svg)
 
 
-[tryhackme]: https://tryhackme.com/p/Burockoly
-[linkedin]: https://linkedin.com/in/burockoly
+for real $whoami¿? :owl:
+
+## I'm a Cyber Security researcher and learner!
+<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
+
+- :computer: I'm currently learning Digital Forensics 
+- :angry: I often lose my temper waiting for HDDs to recover
+- :file_folder: You can reach me via linkedin or mail
+- :kite: Fun fact, I love linux so much \o/
+
+---
+
+[![Burockoly's tryhackme stats](https://raw.githubusercontent.com/burockoly/burockoly/master/assets/thm_propic.png)][tryhackme]
+
+
+![Burockoly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4p1&show_icons=true&theme=synthwave&card_width=750)
 
 <!--
-**Burockoly/Burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Burockoly/burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,4 +31,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Description
+At the age of 12, I recovered my first HDD with the first computer I assembled. Since then I'm in love with hardware.
+Than I met with Cyber Security, now I love them both. :)
+
 -->
+
+[linkedin]: https://www.linkedin.com/in/Burockoly/
+[tryhackme]: https://tryhackme.com/p/burockoly
