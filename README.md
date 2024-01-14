@@ -13,7 +13,8 @@ for real $whoami¿? :owl:
 
 ---
 
-[![Burockoly's tryhackme stats](https://raw.githubusercontent.com/burockoly/burockoly/master/assets/thm_propic.png)][tryhackme]
+![tryhackme stats](https://raw.githubusercontent.com/Burockoly/Burockoly/master/assets/thm_propic.png)
+
 
 
 https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
