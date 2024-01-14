@@ -17,10 +17,16 @@ for real $whoami¿? :owl:
 
 
 
+<p>
+
   
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
 
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
+</p>
+
+
+
 
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -32,7 +38,7 @@ for real $whoami¿? :owl:
 
 ---
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Contact with me:</h2>
 
 [<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
