@@ -8,13 +8,13 @@
 
 - :computer: I'm currently learning Digital Forensics.
   
-- :screwdriver: I often lose my temper waiting for HDDs to recover.  (・_・)
+- :screwdriver: I often lose my temper waiting for HDDs to recover. 
 
 - :file_folder: You can reach me via linkedin or mail.
   
 - :kite: Fun fact, I love linux so much.  \o/
   
-- :desktop_computer: I love Raspberry Pis. ٩(^ᗜ^ )و
+- :desktop_computer: I love Raspberry Pis.
 
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
