@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hello+there!+I'm+Burak+-+*-*)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=23&pause=1700&color=19E96A&background=122ABB00&multiline=true&random=false&width=500&height=80&lines=Hello+There!+I'm+Burak+*-*;a.k.a+Burockoly)](https://git.io/typing-svg)
 
 
 for real $whoami¿? :owl:
@@ -12,6 +12,16 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much \o/
 
 ---
+
+
+
+
+
+
+
+
+
+
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
 
