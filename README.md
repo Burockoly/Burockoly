@@ -12,11 +12,6 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much \o/
 
 ---
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
-
 
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
@@ -24,6 +19,13 @@ for real $whoami¿? :owl:
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+---
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
 
 <!--
 **Burockoly/burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
