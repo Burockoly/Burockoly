@@ -3,6 +3,8 @@
 
 for real $whoami¿? :owl:
 
+<p>
+
 ## I'm a Cyber Security researcher and learner!
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 - :computer: I'm currently learning Digital Forensics
@@ -14,16 +16,13 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much  \o/
   
 - :desktop_computer: I love Raspberry Pis ٩(^ᗜ^ )و
-
-
-
+</p>
 <p>
 
-  
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
-
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
 
 </p>
+
 
 
 
