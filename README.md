@@ -16,7 +16,6 @@ for real $whoami¿? :owl:
   
 - :desktop_computer: I love Raspberry Pis ٩(^ᗜ^ )و
 
-margin-bottom: 5px;
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
 
