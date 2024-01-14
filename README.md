@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 About Me:</h2>
 
--From Istanbul/Turkey
+- From Istanbul/Turkey
 
 - Student at Fachhochschule Südwestfalen![image](https://github.com/Burockoly/Burockoly/assets/134174717/fea4d046-7258-4394-bcb0-45818d3a5f18)
 
-- I'm from Turkey
+- Cybersecurity Enthusiast
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BurakGul | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BurakGul | TryHackMe" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
+[<img align="left" alt="BurakGul | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BurakGul | TryHackMe" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
 
 
 [tryhackme]: https://tryhackme.com/p/Burockoly
