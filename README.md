@@ -7,16 +7,19 @@ for real $whoami¿? :owl:
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 
 - :computer: I'm currently learning Digital Forensics
-
+<br>
 - :screwdriver: I often lose my temper waiting for HDDs to recover
-
+<br>
 - :file_folder: You can reach me via linkedin or mail
-
+<br>
 - :kite: Fun fact, I love linux so much  \o/
-
+<br>
 - :desktop_computer: I love Raspberry Pis   ٩(^ᗜ^ )و
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
