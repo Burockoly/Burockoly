@@ -15,11 +15,12 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much  \o/
 <br>
 - :desktop_computer: I love Raspberry Pis   ٩(^ᗜ^ )و
+<p
 
-<br>
-<br>
-<br>
-<br>
+
+
+
+</p>
 
 
 
