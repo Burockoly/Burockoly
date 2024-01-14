@@ -7,7 +7,7 @@ for real $whoami¿? :owl:
 <img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
 
 - :computer: I'm currently learning Digital Forensics 
-- :angry: I often lose my temper waiting for HDDs to recover
+- :angry: I often lose my temper waiting for HDDs to recover                                                                                      
 - :file_folder: You can reach me via linkedin or mail
 - :kite: Fun fact, I love linux so much \o/
 
