@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=23&pause=1700&color=19E96A&background=122ABB00&multiline=true&random=false&width=500&height=80&lines=Hello+There!++I'm+Burak+*-*;a.k.a+Burockoly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=23&pause=1700&color=19E96A&background=122ABB00&multiline=true&random=false&width=500&height=80&lines=Hello+There!++I'm+Burak+ヾ(＾∇＾);a.k.a+Burockoly)](https://git.io/typing-svg)
 
 
 for real $whoami¿? :owl:
@@ -8,8 +8,8 @@ for real $whoami¿? :owl:
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 - :computer: I'm currently learning Digital Forensics
   
-- :screwdriver: I often lose my temper waiting for HDDs to recover
-  
+- :screwdriver: I often lose my temper waiting for HDDs to recover ( ・_・)
+
 - :file_folder: You can reach me via linkedin or mail
   
 - :kite: Fun fact, I love linux so much  \o/
