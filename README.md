@@ -4,7 +4,7 @@
 for real $whoami¿? :owl:
 
 ## I'm a Cyber Security researcher and learner!
-<img align="right" src="" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 
 - :computer: I'm currently learning Digital Forensics 
 - :angry: I often lose my temper waiting for HDDs to recover
