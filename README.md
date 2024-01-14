@@ -10,7 +10,7 @@ for real $whoami¿? :owl:
 - :screwdriver: I often lose my temper waiting for HDDs to recover
 - :file_folder: You can reach me via linkedin or mail
 - :kite: Fun fact, I love linux so much \o/
-- <img src="https://static-00.iconduck.com/assets.00/raspberry-pi-icon-407x512-rhe9f1of.png" alt="Raspberry Pi Emoji" width="22"> I love Raspberry Pis
+- <img src="https://static-00.iconduck.com/assets.00/raspberry-pi-icon-407x512-rhe9f1of.png" alt="Raspberry Pi Emoji" width="18"> I love Raspberry Pis
 
 ---
 
