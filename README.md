@@ -4,9 +4,9 @@
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 
 ## $whoami
-- :computer: I'm currently learning Digital Forensics
-
 - :man_student: I'm a student who is learning Cyber Security.
+
+- :computer: I'm currently learning Digital Forensics.
   
 - :screwdriver: I often lose my temper waiting for HDDs to recover.  (・_・)
 
