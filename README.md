@@ -4,10 +4,10 @@
 for real $whoami¿? :owl:
 
 ## I'm a Cyber Security researcher and learner!
-<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
+<img align="right" src="" />
 
 - :computer: I'm currently learning Digital Forensics 
-- :angry: I often lose my temper waiting for HDDs to recover                                                                                      
+- :angry: I often lose my temper waiting for HDDs to recover
 - :file_folder: You can reach me via linkedin or mail
 - :kite: Fun fact, I love linux so much \o/
 
@@ -16,8 +16,8 @@ for real $whoami¿? :owl:
 ![tryhackme stats](https://raw.githubusercontent.com/Burockoly/Burockoly/master/assets/thm_propic.png)
 
 
-
-https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 <!--
 **Burockoly/burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
