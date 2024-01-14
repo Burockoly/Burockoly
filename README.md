@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 
-##$whoami
+## $whoami
 - :computer: I'm currently learning Digital Forensics
 
 - :man_student: I'm a student who is learning Cyber Security.
