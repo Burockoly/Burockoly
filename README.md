@@ -36,6 +36,7 @@ for real $whoami¿? :owl:
 
 [<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
+[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/threads.svg" />][threads]
 
 <!--
 **Burockoly/burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +51,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ## Description
 At the age of 12, I recovered my first HDD with the first computer I assembled. Since then I'm in love with hardware.
 Than I met with Cyber Security, now I love them both. :)
@@ -59,3 +59,4 @@ Than I met with Cyber Security, now I love them both. :)
 
 [linkedin]: https://www.linkedin.com/in/Burockoly/
 [tryhackme]: https://tryhackme.com/p/burockoly
+[threads]: https://www.threads.net/@l.burock.l
