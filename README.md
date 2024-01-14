@@ -12,14 +12,10 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much \o/
 
 ---
+<h2> 🤳 Connect with me:</h2>
 
-
-
-
-
-
-
-
+[<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
 
 
 
