@@ -16,7 +16,7 @@ for real $whoami¿? :owl:
 [![Burockoly's tryhackme stats](https://raw.githubusercontent.com/burockoly/burockoly/master/assets/thm_propic.png)][tryhackme]
 
 
-![Burockoly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4p1&show_icons=true&theme=synthwave&card_width=750)
+https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
 
 <!--
 **Burockoly/burockoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
