@@ -15,13 +15,12 @@ for real $whoami¿? :owl:
 - :kite: Fun fact, I love linux so much  \o/
 <br>
 - :desktop_computer: I love Raspberry Pis   ٩(^ᗜ^ )و
-<p
+<p>
 
 
 
-
+  
 </p>
-
 
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
