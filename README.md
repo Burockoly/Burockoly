@@ -7,9 +7,10 @@ for real $whoami¿? :owl:
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
 
 - :computer: I'm currently learning Digital Forensics 
-- :angry: I often lose my temper waiting for HDDs to recover
+- :screwdriver: I often lose my temper waiting for HDDs to recover
 - :file_folder: You can reach me via linkedin or mail
 - :kite: Fun fact, I love linux so much \o/
+- ![Raspberry Pi Emoji](https://static-00.iconduck.com/assets.00/raspberry-pi-icon-407x512-rhe9f1of.png) I love Raspberry Pis
 
 ---
 
@@ -17,11 +18,12 @@ for real $whoami¿? :owl:
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
 
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
 
