@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hello+there!+I'm+Burak+-+a.k.a+Burockoly+-+o-o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hello+there!+I'm+Burak+-+*-*)](https://git.io/typing-svg)
 
 
 for real $whoami¿? :owl:
