@@ -5,16 +5,18 @@ for real $whoami¿? :owl:
 
 ## I'm a Cyber Security researcher and learner!
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
-<!-- ABOUT-ME:START -->
-- :computer: I'm currently learning Digital Forensics 
+
+- :computer: I'm currently learning Digital Forensics
+- 
 - :screwdriver: I often lose my temper waiting for HDDs to recover
+- 
 - :file_folder: You can reach me via linkedin or mail
+- 
 - :kite: Fun fact, I love linux so much  \o/
+- 
 - :desktop_computer: I love Raspberry Pis   ٩(^ᗜ^ )و
 
 
-
-<!-- ABOUT-ME:END -->
 
 ---
 
