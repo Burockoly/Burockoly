@@ -1,20 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=26&pause=1000&color=2FDA60&multiline=true&random=false&width=435&height=60&lines=Hey+There!+(%E3%83%BB%CE%B5%E3%83%BB)%E3%83%8E;I'm+Burak.)](https://git.io/typing-svg)
 
 
-### $whoami¿? :owl:
-
-
-## I'm a Cyber Security researcher and learner!
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
-- :computer: I'm currently learning Digital Forensics
-  
-- :screwdriver: I often lose my temper waiting for HDDs to recover (・_・)
 
-- :file_folder: You can reach me via linkedin or mail
+##$whoami
+- :computer: I'm currently learning Digital Forensics
+
+- :man_student: I'm a student who is learning Cyber Security.
   
-- :kite: Fun fact, I love linux so much  \o/
+- :screwdriver: I often lose my temper waiting for HDDs to recover.  (・_・)
+
+- :file_folder: You can reach me via linkedin or mail.
   
-- :desktop_computer: I love Raspberry Pis ٩(^ᗜ^ )و
+- :kite: Fun fact, I love linux so much.  \o/
+  
+- :desktop_computer: I love Raspberry Pis. ٩(^ᗜ^ )و
 
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
