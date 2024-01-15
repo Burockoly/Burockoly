@@ -10,9 +10,9 @@
   
 - :screwdriver: I often lose my temper waiting for HDDs to recover. 
 
-- :file_folder: You can reach me via linkedin or mail.
+- :mailbox: You can reach me via linkedin or mail.
   
-- :kite: Fun fact, I love linux so much.  \o/
+- :kite: I love linux so much.  \o/
   
 - :desktop_computer: I love Raspberry Pis.
 
