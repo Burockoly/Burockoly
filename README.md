@@ -35,8 +35,8 @@
 
 [<img align="left" alt="Burockoly | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/tryhackme.svg" />][tryhackme]
-[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/threads.svg" />][threads]
-[<img align="left" alt="Burockoly | TryHackMe" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/credly.svg" />][credly]
+[<img align="left" alt="Burockoly | Threads" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/threads.svg" />][threads]
+[<img align="left" alt="Burockoly | Credly" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.1.0/icons/credly.svg" />][credly]
 
 
 <!--
@@ -59,6 +59,6 @@ Than I met with Cyber Security, now I love them both. :)
 -->
 
 [linkedin]: https://www.linkedin.com/in/Burockoly/
-[tryhackme]: https://tryhackme.com/p/burockoly
+[tryhackme]: https://tryhackme.com/p/Burockoly
 [threads]: https://www.threads.net/@l.burock.l
 [credly]: https://www.credly.com/users/burockoly/badges
