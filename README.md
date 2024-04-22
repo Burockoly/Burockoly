@@ -17,8 +17,6 @@
 - :desktop_computer: I love Raspberry Pis.
 
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Burockoly.png)
-
 
 
 
