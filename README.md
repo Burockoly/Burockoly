@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=26&pause=1000&color=2FDA60&multiline=true&random=false&width=435&height=65&lines=Hey+There!+(%E3%83%BB%CE%B5%E3%83%BB)%E3%83%8E;I'm+Burak.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&size=26&pause=60&color=2FDA60&multiline=true&random=false&width=435&height=65&lines=Hey+There!;I'm+Burak.)](https://git.io/typing-svg)
 
 
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" />
